@@ -1,0 +1,7 @@
+#Sun Apr 11 12:04:30 PKT 2021
+base.0=D\:\\react-native\\RestaurantApp\\android\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
+path.1=classes.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=D\:\\react-native\\RestaurantApp\\android\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\classes.dex
